@@ -1,0 +1,11 @@
+<extension type="module" version="3.0" client="site" method="upgrade">
+    <name>Solicitação de Férias</name>
+    <description>Módulo para solicitação de férias</description>
+    <version>1.0.0</version>
+    <author>3º Sgt Faro Ciuldin</author>
+    <files>
+        <filename module="mod_solicitacao_ferias">mod_solicitacao_ferias.php</filename>
+        <filename>helper.php</filename>
+        <folder>tmpl</folder>
+    </files>
+</extension>

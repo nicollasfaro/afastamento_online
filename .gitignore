@@ -1,0 +1,8 @@
+# Ignorar arquivos de cache e logs
+cache/
+logs/
+# Ignorar configurações locais
+config.php
+# Ignorar arquivos de backup
+*.bak
+*.zip
