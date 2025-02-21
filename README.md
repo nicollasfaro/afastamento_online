@@ -16,7 +16,7 @@ Este módulo foi desenvolvido para gerenciar **afastamentos online** de militare
 ## 🛠 **Instalação**
 ### **1⃣ Clonar o Repositório**
 ```bash
-git clone https://github.com/nicollasfaro/mod_afastamento_online.git
+git clone https://github.com/nicollasfaro/afastamento_online.git
 ```
 
 ### **2⃣ Mover o módulo para o Joomla**
